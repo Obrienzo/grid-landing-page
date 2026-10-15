@@ -1,0 +1,26 @@
+[
+    {
+        "icon": "./assets/images/icon-sparkle.svg",
+        "size": 2.4,
+        "statsTitle": "Students reached",
+        "statsDescr": "Across 31 countries since 2011"
+    },
+    {
+        "icon": "./assets/images/icon-plus.svg",
+        "size": 1284,
+        "statsTitle": "Schools partnered",
+        "statsDescr": "In 14 countries, from Kenya to Guatemala"
+    },
+    {
+        "icon": "./assets/images/icon-arrow-right.svg",
+        "size": 38,
+        "statsTitle": "Teachers trained",
+        "statsDescr": "Equiped with modern tools and methodology"
+    },
+    {
+        "icon": "./assets/images/icon-trending-up.svg",
+        "size": 3.1,
+        "statsTitle": "Graduation lift",
+        "statsDescr": "Partner schools outperform national average 3"
+    }
+]

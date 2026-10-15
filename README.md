@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://obrienzo.github.io/grid-landing-page/)
+- Solution URL: [Github source code](https://github.com/Obrienzo/grid-landing-page)
+- Live Site URL: [Challenge Preview](https://obrienzo.github.io/grid-landing-page/)
 
 ## My process
 

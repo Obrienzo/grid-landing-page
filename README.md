@@ -47,7 +47,7 @@ Users should be able to:
 
 ### What I learned
 
-For this project I have decided to implement my initial animation logic, after going through the documentation on [MDN](https://developer.mozilla.org/en-US/). Additionally, I implemented a robust grid layout to make all the stats tracks be equal based on the maximum content.
+For this challenge, I felt confident implementing the core requirements. To push myself further, I explored the “Ideas to test yourself” section, which was a great way to experiment with new concepts such as the `prefers-reduced-motion` media query, JavaScript-driven animations for different page components and implementing correct semantic.
 
 To see how you can add code snippets, see below:
 
@@ -59,7 +59,7 @@ main {
 
 ### Continued development
 
-For future development, I think I still have to expand the use of accessibility in my code. Obviously, I did implement good amount of semantics in the project looking at my Lighthouse score, I think I still need to get feedback and learning new things.
+For future development, I am still learning the progressive web app implementation for which after understanding the concept I will be implementing
 
 ### Useful resources
 
@@ -68,7 +68,7 @@ For future development, I think I still have to expand the use of accessibility 
 
 ### AI Collaboration
 
-While doing this project the use of AI was minimal. However, I did use it to review my accessibility since the goal of doing this project was to implement the basics of accessibility.
+While doing this project the use of AI was minimal. However, I did use it to review my accessibility since the goal of doing this project was to implement the basics of accessibility. Additionally, Ai was useful in reducing the complexity in the documentation and make the content more understandable.
 
 It was insightful at some of the little details that I have missed and would not have pickup earlier.
 

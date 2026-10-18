@@ -1,6 +1,7 @@
 const header = document.querySelector(".header__wrapper");
 const button = document.querySelector(".navigation__btn");
 const mainElem = document.querySelector("main");
+const isAnimated = window.matchMedia("(prefers-reduced-motion: reduce)");
 let isOpen = false;
 
 const menuIcons = {
@@ -99,7 +100,11 @@ window.addEventListener("DOMContentLoaded", async () => {
             mainElem.append(createCard);
 
             const numberElement = createCard.querySelector(".stat-num");
-            animateCounter(numberElement, stat.size, 800, index);
+            if (isAnimated.matches) {
+                numberElement.textContent = stat.size.toLocaleString();
+            } else {
+                animateCounter(numberElement, stat.size, 800, index);
+            }
         });
     } catch(err) {
         console.error("no data", err);
